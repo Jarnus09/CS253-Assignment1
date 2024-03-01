@@ -1,26 +1,26 @@
-Hello
-For the program to run I am assuming that you have followed all the instructions given in the gfg link
-https://www.geeksforgeeks.org/how-to-setup-mysql-database-in-visual-studio-2022-for-a-cpp-application/
+# Running the Program
 
-To run the program you need to open the assignment1 folder and inside that open the Project1.sln file.
+To run the program, follow these steps:
 
-A Visual Studio window will open wherein you will have to enter your MySQL username and password on line 684.
+1. **Setup MySQL Database**: Ensure you've followed the instructions provided in the [GeeksforGeeks link](https://www.geeksforgeeks.org/how-to-setup-mysql-database-in-visual-studio-2022-for-a-cpp-application/).
 
-Then you need to click on the play button present on the right side of "Local Windows Debugger".
+2. **Open Project**: Navigate to the `assignment1` folder and open the `Project1.sln` file.
 
-A window will open where you can start operating the program by first clicking on the terminal and then
-following the instructions on screen. 
+3. **Enter MySQL Credentials**: In Visual Studio, locate line 684 and enter your MySQL username and password.
 
-You can go back in the program by pressing b.
+4. **Run the Program**: Click on the play button ("Local Windows Debugger") to execute the program.
 
-There is only one manager. Password is lmao_ded 
-There are customers with customer id 1,2,3,4,5
-Their passwords are Password1, Password2, Password3, Password4, Password5
-Similarly for employees.
+5. **Operating the Program**: Once the program window opens, interact with it by following the on-screen instructions. Use the terminal and navigate back by pressing `b`.
 
-You can contact me via email: nsrujan22@iitk.ac.in if you find any trouble running the program.
-As this is my first time running an sql based program, I hope you contact me in case any issues are found.
+# Program Details
 
-Regards,
-Wadkar Srujan Nitin,
-221212
+- **Manager Credentials**: There is only one manager with the password `lmao_ded`.
+- **Customers and Employees**: Customers have IDs 1 to 5, and employees have similar IDs. Their passwords follow the format `Password1` to `Password5`.
+
+# Contact Information
+
+If you encounter any issues while running the program, feel free to reach out via email at [nsrujan22@iitk.ac.in](mailto:nsrujan22@iitk.ac.in). Your feedback and assistance are greatly appreciated.
+
+**Regards,**  
+Wadkar Srujan Nitin  
+Roll Number: 221212

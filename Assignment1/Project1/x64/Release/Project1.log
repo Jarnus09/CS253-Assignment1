@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+  Generating code
+  5 of 442 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> D:\Assignment1\x64\Release\Project1.exe
+  D:\mysql-connector-c++-8.3.0-winx64\lib64\libcrypto-3-x64.dll
+  D:\mysql-connector-c++-8.3.0-winx64\lib64\libssl-3-x64.dll
+  D:\mysql-connector-c++-8.3.0-winx64\lib64\mysqlcppconn-9-vs14.dll
+  D:\mysql-connector-c++-8.3.0-winx64\lib64\mysqlcppconn8-2-vs14.dll
+  4 File(s) copied

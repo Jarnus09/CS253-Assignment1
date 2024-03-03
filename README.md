@@ -2,7 +2,7 @@
 
 To run the program, follow these steps:
 
-1. **Open Project**: Navigate to the `assignment1` folder and open the `Project1.sln` file. 
+1. **Open Project**: Navigate to the `Assignment1` folder and open the `Project1.sln` file. 
 2. **Setup MySQL Database**: Ensure you've followed the instructions provided in the [GeeksforGeeks link](https://www.geeksforgeeks.org/how-to-setup-mysql-database-in-visual-studio-2022-for-a-cpp-application/). To run the code on my PC, I had made changes in the required places according to my downloaded folder location. You will have to make changes according to the download location of your MySQL connector package.
 
 3. **Enter MySQL Credentials**: In Visual Studio, locate line 684 in the code and enter your MySQL username and password.

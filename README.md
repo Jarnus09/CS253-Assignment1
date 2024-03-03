@@ -7,7 +7,7 @@ To run the program, follow these steps:
 
 3. **Enter MySQL Credentials**: In Visual Studio, locate line 684 in the code and enter your MySQL username and password.
 
-4. **Run the Program**: Click on the play button ("Local Windows Debugger") to execute the program.
+4. **Run the Program**: Click on the play button on the right of ("Local Windows Debugger") to execute the program.
 
 5. **Operating the Program**: Once the program window opens, interact with it by following the on-screen instructions. Use the terminal and navigate back by pressing `b`.
 

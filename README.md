@@ -18,7 +18,7 @@ To run the program, follow these steps:
 
 # Contact Information
 
-If you encounter any issues while running the program, feel free to reach out via email at [nsrujan22@iitk.ac.in](mailto:nsrujan22@iitk.ac.in). Your feedback and assistance are greatly appreciated.
+If you encounter any issues while running the program, please contact me via email at [nsrujan22@iitk.ac.in](mailto:nsrujan22@iitk.ac.in). 
 
 **Regards,**  
 Wadkar Srujan Nitin  

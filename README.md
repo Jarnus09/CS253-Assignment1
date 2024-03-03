@@ -14,7 +14,7 @@ To run the program, follow these steps:
 # Program Details
 
 - **Manager Credentials**: There is only one manager with the password `lmao_ded`.
-- **Customers and Employees**: Customers have IDs 1 to 5, and employees have similar IDs. Their passwords follow the format `Password1` to `Password5`.
+- **Customers and Employees**: Customers have IDs 1,2,3,4,5 and employees have similar IDs. Their passwords follow the format `Password1` to `Password5`.
 
 # Contact Information
 
